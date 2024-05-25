@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep222222" alt="sandeep222222" /></a> </p>
 
-- 💬 Ask me about **At NXTWave's CCBP 4.0 Intensive, I’m currently learning full-stack development with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With industry's first ever IRC 4.0, getting ready to take on new challenges in the tech world.**
+- 💬 Ask me about **At NXTWave's CCBP 2.0 Intensive, I’m currently learning full-stack web development with a specialization in 2.0 technologies. In love with the coding challenges and hands-on projects. With industry's first ever IRC 2.0, getting ready to take on new challenges in the tech world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
