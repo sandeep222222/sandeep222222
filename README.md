@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/k-sandeep-0aa02a268"><img src="https://tse3.mm.bing.net/th?id=OIP.0iahnAkScQ67KK2vZFKQ_gHaHa&pid=Api&P=0&h=180"</p>
+
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on ...
