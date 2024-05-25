@@ -11,15 +11,11 @@
 
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: sandeepsandy65897@gmail.com
-- - ⚡ Fun fact: I'm Funny
+- ⚡ Fun fact: I'm Funny
 
-
--->
-
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep222222&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep222222" /> </p>
 
