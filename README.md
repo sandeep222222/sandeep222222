@@ -14,6 +14,9 @@
 
 
 - 🌱 I’m currently learning Full Stack Web Development
+- 💼 Currently interning as a Frontend web Developer at Bharat Intern, honing my skills in web development.
+- 💻 Skilled in HTML5, CSS3, Javascript, React JS, PYthon, SQL, MongoDB, Express JS, Node Js and more...
+- 🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.
 - 💬 Ask me about ...
 - 📫 How to reach me: sandeepsandy65897@gmail.com
 - ⚡ Fun fact: I'm Funny
