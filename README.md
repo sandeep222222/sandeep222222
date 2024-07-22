@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=06C9FD&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+K%20SANDEEP+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" width="600" height="300"/>
+</div>
 
 
 <h3 align="center">A Passionate MERN Stack Developerment From India</h3>
