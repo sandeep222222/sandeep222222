@@ -2,7 +2,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
 
-<h3 align="center">A Passionate MERN Stack Developerment From India</h3>
+<h3 align="center">A Passionate MERN Stack Developerment From India</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 
